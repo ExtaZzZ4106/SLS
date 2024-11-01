@@ -1,7 +1,7 @@
-# Savage-Lands-Surviva (1.20.1 fabric)
+# Savage-Lands-Survival (1.20.1 fabric)
 
 
- [Cсылка на гугл диск](https://drive.google.com/drive/folders/12CNXGpVf6Bm9lWiOri3omttdoM_BIuAF?usp=sharing)
+ Cсылка на гугл диск: [Savage-Lands-Survival](https://drive.google.com/drive/folders/12CNXGpVf6Bm9lWiOri3omttdoM_BIuAF?usp=sharing)
 
  Сборка модов для майнкрафт
 
@@ -12,10 +12,10 @@
 - В вашем лаунчере указать путь к данной папке
 
 ## Скачивание обновлений
-- Обновления соержаться на гугл диске
+- Обновления соержаться на гугл диске: [Updates](https://drive.google.com/drive/folders/1x0VQfRD9Xy8B2_43YOMGwKx2t26CL1Ez)
 - Заходим на диск качаем последний апдейд
 - Разархивируем и закидываем папки в корневую папку с майнкрафт с заменой
-- 
+  
 ###  (апдейт обычно содержит папку mods, но могут быть и другие их тоже закидываем)
 
 ## ВАЖНО
